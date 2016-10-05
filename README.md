@@ -17,6 +17,8 @@ To run the solver run the following on terminal:
 
 3)Numbering 1,2,3,4.....
 
+Example input file format - input.txt
+
 Note: For various sizes of sudoku you need to change the MINIGRIDSIZE macro in "sudoku.h".
 
 In the "sudoku.h" file it is set to solve a 16x16 sudoku.
